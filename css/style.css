@@ -1,0 +1,410 @@
+label { font-weight: bold; color: #444; font-size: 14px; }
+
+#campo1[type="text"] { margin: 10px 0; background: #fff; border: 1px solid #ccc; color: #777; display:block; max-width: 100%; outline: none; padding: 7px 8px; margin-left: 840px;}
+
+
+#infolibro{
+   margin-top: -100px;
+   margin-bottom: -10px;
+   margin-right: 110px;
+   margin-left: 129px;
+    	
+}
+
+#profile{
+   
+   margin-top: 20px;
+   margin-bottom: 10px;
+   margin-right: -220px;
+    	
+    	
+}
+
+#fotoprofile{
+   
+	 margin-top: -200px;
+	 
+}
+
+#pr{
+    margin-top: -200px;
+    margin-right: 130px;
+    	
+}
+
+
+*{font-family: sans-serif; }
+
+hr{display:none;}
+
+ul.menuVert1 {width: 100px; list-style: none; margin-top: 740px;
+ text-align: center; text-shadow: 4px 4px 8px white; padding:0;}
+
+ul.menuVert1 li {padding: 10px 40px; border:groove #06F;
+border-width: 6px 6px 0px 6px; background-color:#39F}
+
+ul.menuVert2 {width: 200px; list-style: none; margin-top: -1780px;
+ text-align: center; text-shadow: 4px 4px 8px white; padding:0;}
+
+ul.menuVert2 li {padding: 1px 6px; border:groove #06F;
+border-width: 6px 6px 0px 6px; background-color:#39F}
+
+ul.menuVert3 {width: -400px; list-style: none; margin-top: -900px;
+ text-align: center; text-shadow: 4px 4px 8px white; padding:0;}
+
+ul.menuVert3 li {padding: 10px 450px; border:groove #06F;
+border-width: 6px 6px 0px 6px; background-color:#39F}
+-
+ul.menuVert5 {width: 40px; list-style: none; margin-top: 50px;
+ text-align: center; text-shadow: 4px 4px 8px white; padding:0;}
+
+ul.menuVert5 li {padding: 10px 45px; border:groove #06F;
+border-width: 6px 6px 0px 6px; background-color:#39F}
+
+
+
+#Logo{
+	margin: 0 auto;
+	padding:0 ;
+	
+	
+}
+
+#logo3{
+	
+	margin-top: -100px;
+	margin-bottom: -10px;
+    margin-right: 110px;
+    margin-left: 129px;	
+	margin: 0 auto;
+	padding:0 ;
+	
+}
+
+.lista ul
+{
+   padding-right: 300px;
+   padding-left: 100px;
+   padding-bottom: -600px;
+   padding-top: -200px;
+   margin: 370px;
+   margin-top: -600px;
+}
+.lista li
+{
+   list-style-type: none;
+   display:table;
+   padding-right: 5px;
+   margin-top: 10px;
+}
+
+
+
+body{
+	margin: 0 auto;
+	text-align:center;
+	background:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+
+#positionlogin{
+	background-color:#39F;
+	margin-top: 750px;
+    margin-bottom: 100px;
+    margin-right: 1100px;
+    margin-left: 0px;	
+	
+	width:600px;
+	height: 200px;
+	
+}
+
+#positionloginn{
+	background-color:#39F;
+	margin-top: -950px;
+    margin-bottom: 100px;
+    margin-right: 1100px;
+    margin-left: 0px;	
+	
+	width:600px;
+	height: 200px;
+	
+}
+
+#libros{
+	background-color:#39F;
+	color:#000;
+	
+	margin-top:  -250px;
+	
+	/*Bordes redondeados*/
+    -webkit-border-radius:5px;/*Chrome y Safari*/
+	 -moz-border-radius:5px;/*Firefox*/
+   
+    border-radius:50px;/*Estandar por defecto*/
+    float:left;
+    width:100px;
+	height: 50px;
+    font-size:16px;
+    font-weight:bold;
+    margin-right:70px;
+    text-align:center;	
+	
+	
+}
+
+
+
+header {
+	 background-color:#39F;
+	 margin: 0 auto;
+	 color:#FFF;
+	 text-align:center;
+	 width: 960px;
+	 height: 50px;
+	 font-size:24pt;
+	 font-weight: bold;
+}
+
+
+#display{
+	
+	width::560px;
+	height: 750px;
+	 margin-top: 10px;
+    margin-bottom: -1500px;
+    margin-right: 20px;
+    margin-left: 10px;	
+}
+#display2{
+	
+	width::560px;
+	height: 750px;
+    margin-top: -190px;
+    margin-bottom: -1500px;
+    margin-right: 20px;
+    margin-left: 10px;	
+}
+#primera{
+	display: block;
+    margin-top: -1050px;
+	background:#39F;
+    padding:100px;
+    width:30px;
+	height: 150px;
+	-webkit-border-radius:10px;/*Para chrome y Safari*/
+	
+    margin-right: 350px;
+    margin-left: 50px;	
+		
+}
+
+#registeron{
+	
+	text-align:center;	
+
+    margin-top:  -300px;     
+    margin-left: 1200px;
+	
+}
+
+#registro{
+	
+    
+    text-align:center;	
+
+    margin-top:  -470px;     
+    margin-left: -250px;
+}
+#registro2{
+
+    text-align:center;	
+
+    margin-top: -370px;          
+    margin-left: -250px;
+}
+
+#registro3{
+
+    text-align:center;	
+
+    margin-top: -445px;          
+    margin-left: 170px;
+}
+
+#formu{
+	
+	
+}
+
+#lista{
+	color:#FFF;
+	list-style:none;
+    margin-top: -100px;
+    margin-bottom: 500px;
+    margin-right: 50px;
+    margin-left: -40px;	
+    padding:0;
+	 -webkit-border-radius:5px;/*Chrome y Safari*/
+	 
+    float:left;	
+}
+li{
+	/*Bordes redondeados*/
+    -webkit-border-radius:5px;/*Chrome y Safari*/
+	 -moz-border-radius:5px;/*Firefox*/
+    color:#FFF;
+    border-radius:50px;/*Estandar por defecto*/
+    float:left;
+    width:100px;
+	height: 50px;
+    font-size:16px;
+    font-weight:bold;
+    margin-right:70px;
+    text-align:center;	
+}
+li:hover{
+    /*Degradado de fondo*/
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF), to( #E3E3E3));/*Chrome y Safari*/
+    background-image: -moz-linear-gradient(top center, #FFF, #E3E3E3);/*Firefox*/
+    background-image: -o-linear-gradient(top, #FFF, #E3E3E3);/*Opera*/
+    background-image: linear-gradient(top, #FFF, #E3E3E3);/*Estandar por defecto*/
+    /*Sombras*/
+    -webkit-box-shadow:  10px -10px 0px #999;/*Chrome y Safari*/
+    -moz-box-shadow:  1px -1px 0px #999;/*Firefox*/
+    -o-box-shadow:  1px -1px 0px #999;/*Opera*/
+    box-shadow:  1px -1px 0px #999;/*Estandar por defecto*/
+    border:10px solid #E3E3E3;
+}
+ a{
+    color:#000;
+    display:block;
+    padding:10px;
+    text-decoration:none;
+    /*Transiciones*/
+    -webkit-transition: 0.4s linear all;
+    -moz-transition: 0.4s linear all;
+    -o-transition: 0.4s linear all;
+    transition: 0.4s linear all;
+}
+
+#atras{
+	/*Bordes redondeados*/
+    -webkit-border-radius:5px;/*Chrome y Safari*/
+	 -moz-border-radius:5px;/*Firefox*/
+    color:#FFF;
+    border-radius:50px;/*Estandar por defecto*/
+    float:left;
+    width:100px;
+	height: 50px;
+    font-size:16px;
+    font-weight:bold;
+     margin-left: 400px;	
+	 margin-top: -730px;
+    text-align:center;	
+}
+
+#alantesend{
+	/*Bordes redondeados*/
+    -webkit-border-radius:5px;/*Chrome y Safari*/
+	 -moz-border-radius:5px;/*Firefox*/
+    color:#FFF;
+    border-radius:50px;/*Estandar por defecto*/
+    float:left;
+    width:100px;
+	height: 50px;
+    font-size:16px;
+    font-weight:bold;
+    margin-left: 1200px;
+    margin-top: -730px;
+    text-align:center;	
+}
+
+#alante{
+	/*Bordes redondeados*/
+    -webkit-border-radius:5px;/*Chrome y Safari*/
+	 -moz-border-radius:5px;/*Firefox*/
+    color:#FFF;
+    border-radius:50px;/*Estandar por defecto*/
+    float:left;
+    width:100px;
+	height: 50px;
+    font-size:16px;
+    font-weight:bold;
+    margin-left: 1200px;
+    margin-top: -730px;
+    text-align:center;	
+}
+
+#atras2{
+	/*Bordes redondeados*/
+    -webkit-border-radius:5px;/*Chrome y Safari*/
+	 -moz-border-radius:5px;/*Firefox*/
+    color:#FFF;
+    border-radius:50px;/*Estandar por defecto*/
+    float:left;
+    width:100px;
+	height: 50px;
+    font-size:16px;
+    font-weight:bold;
+    margin-left: 400px;
+    margin-top: -500px;
+    text-align:center;	
+}
+
+#atras3{
+	/*Bordes redondeados*/
+    -webkit-border-radius:5px;/*Chrome y Safari*/
+	 -moz-border-radius:5px;/*Firefox*/
+    color:#FFF;
+    border-radius:50px;/*Estandar por defecto*/
+    float:left;
+    width:100px;
+	height: 50px;
+    font-size:16px;
+    font-weight:bold;
+    margin-left: 400px;
+    margin-top: 100px;
+    text-align:center;	
+}
+
+
+#alante2{
+	/*Bordes redondeados*/
+    -webkit-border-radius:5px;/*Chrome y Safari*/
+	 -moz-border-radius:5px;/*Firefox*/
+    color:#FFF;
+    border-radius:50px;/*Estandar por defecto*/
+    float:left;
+    width:100px;
+	height: 50px;
+    font-size:16px;
+    font-weight:bold;
+    margin-left: 1200px;
+    margin-top: -500px;
+    text-align:center;	
+}
+
+#recuadro{
+	
+	margin-top: 400px;
+	
+	
+}
+#recuadr{
+	
+	margin-top: 400px;
+	
+	
+}
+#recuadroderecha{
+	
+	margin-top: 500px;
+
+}
+#recuadroizquierda{
+	
+	margin-top: 50px;
+	
+}
